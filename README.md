@@ -24,6 +24,8 @@ Minimalist car race with a strip of LEDs.
 * [Switch grip](https://www.tinkercad.com/things/fRBtnBthecb)
 * [Electronic case](https://www.tinkercad.com/things/jmegl8CMt9J)
 
+{::nomarkdown}
 <iframe width="450" height="280" src="https://www.tinkercad.com/embed/fRBtnBthecb?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
+<br>
 <iframe width="450" height="280" src="https://www.tinkercad.com/embed/jmegl8CMt9J?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+{:/}
