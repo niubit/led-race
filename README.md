@@ -19,7 +19,7 @@ Minimalist car race with a strip of LEDs.
 
 ![Schema](images/ledrace_pcbless_niubit_bb_v3.png)
 
-# 3D
+# 3D parts
 
 * [Switch grip](https://www.tinkercad.com/things/fRBtnBthecb)
 * [Electronic case](https://www.tinkercad.com/things/jmegl8CMt9J)
