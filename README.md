@@ -3,7 +3,7 @@ Minimalist car race with a strip of LEDs.
 
 # BOM
 
-* 2x [Arcade push button](https://www.aliexpress.com/item/32790898614.html)
+* 2x [Arcade push button 28mm](https://www.aliexpress.com/item/32790898614.html)
 * Arduino nano 328p
 * [Arduino nano adapter](https://www.aliexpress.com/item/33036220402.html)
 * [WS2813 LED strip 5m 60 IP67](https://www.aliexpress.com/item/33023062090.html)
