@@ -46,7 +46,7 @@
 #define PIX_FOCO2_TUNEL2  183
 
 
-int NPIXELS=MAXLED; // leds on track
+const int NPIXELS=MAXLED; // leds on track
 
 #define COLOR1    track.Color(255,0,0)
 #define COLOR2    track.Color(0,255,0)
@@ -57,14 +57,14 @@ int win_music[] = {
   3136
 };
 
-byte  gravity_map[MAXLED];
+byte  gravity_map[NPIXELS];
 
 int TBEEP=3;
 
 float speed1=0;
 float speed2=0;
-float dist1=MAXLED; // Partimos con una vuelta por si al salir volvemos atrás por una rampa
-float dist2=MAXLED; // Partimos con una vuelta por si al salir volvemos atrás por una rampa
+float dist1=NPIXELS; // Partimos con una vuelta por si al salir volvemos atrás por una rampa
+float dist2=NPIXELS; // Partimos con una vuelta por si al salir volvemos atrás por una rampa
 
 byte loop1=0;
 byte loop2=0;
@@ -83,7 +83,7 @@ byte draworder=0;
 
 unsigned long timestamp=0;
 
-Adafruit_NeoPixel track = Adafruit_NeoPixel(MAXLED, PIN_LED, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel track = Adafruit_NeoPixel(NPIXELS, PIN_LED, NEO_GRB + NEO_KHZ800);
 
 int tdelay = 5;
 
